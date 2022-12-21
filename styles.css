@@ -59,7 +59,7 @@ body {
 /*----------------------------- BACKGROUND IMAGE STYLE--------------------- */
 html {
   min-height: 100%;
-   background-image: url("./Angelmors Hub/BG.PNG");
+   background-image: url("../Angelmors Hub/images/BG.PNG");
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center center;
