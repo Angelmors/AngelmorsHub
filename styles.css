@@ -8,12 +8,12 @@ body {
 .navbar {
   overflow: hidden;
   background-color: #79cfe0;
-  font-family: Dinosaur !important;
+  font-family: Comic Sans MS !important;
 }
 
 .navbar a {
   float: left;
-  font: Dinosaur;
+  font: Comic Sans MS;
   font-size: 16px;
   color: white;
   text-align: center;
